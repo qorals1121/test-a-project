@@ -1,0 +1,31 @@
+*모르는거 있으면 드림코딩 엘리 검색해서 공부하기*
+
+git hub 사용법
+
+1. sourcetree 설치 (협업에서는 gitbash를 더 많이 사용한다. 명령어 공부해두면 좋음)
+설치파일 실행 > Bitbucket Server, Bitbucket 아무것도 안누르고 건너뛰기
+Git에 check하기 (check안뜨면 없이 진행)>
+Preferences 화면에서 위에는 깃허브 아이디 (qorals1121, qorals1121@naver.com)
+> 다음 누르고 창 뜨면 아니오 누르기
+
+2. sourcetree 실행, Remote에서 계정 추가 > 호스팅 서비스에서 Git Hub 선택
+> 인증 OAuth 확인하고 OAuth 토큰 새로고침 > Git Hub에서 인증성공 > 확인
+
+3. 본인 이름 폴더에 git-study 파일 만들기
+> create 눌러 폴더 경로 설정하기, \test-a-project 추가
+> 계정에 저장소 생성하기 체크
+> GitHub: qorals1121, 소유자 qorals1121 선택, is Private 선택 안함!!!!
+
+4. 깃허브 화면에서 오른쪽 상단에 잇는 프로필 누르면 your profile, your repositories, setting 많이 사용 할 예정임
+
+5. test-a-project에서 img, source, html 파일 만들기
+
+6. 파일상태 들어가서 스테이지에 올라가지 않은 파일에서 + 눌러서 스테이지에 추가
+
+7. 메모 추가하고 ctrl + enter 누르면 올라감 > history들어가면 확인 가능
+
+8. history에서 항목 오른쪽마우스 클릭 > 체크아웃하면 히스토리 변경가능
+
+9. 파일상태 - 커밋하지 않은 파일에서 한줄한줄 따로따로 커밋 가능
+push 했을 때 select가 뜨면 mangecore  선택해서 push
+* sourcetree가 다른 사람으로 잡혀있으면 도구에 들어가서 옵션 > 기본사용자 변경해야함
